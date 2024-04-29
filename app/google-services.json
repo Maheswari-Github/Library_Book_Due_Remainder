@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259528002137",
+    "project_id": "library-book-due-remaind-6d020",
+    "storage_bucket": "library-book-due-remaind-6d020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259528002137:android:4591f01523523df3617f48",
+        "android_client_info": {
+          "package_name": "com.example.librarybookdueremainder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnUqwhqq2KAkJ_WGNIMaQ2WdZFgzv3fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
